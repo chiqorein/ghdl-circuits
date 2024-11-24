@@ -1,0 +1,120 @@
+$date
+  Mon Nov 25 00:01:46 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module siso_tb $end
+$var reg 1 ! d $end
+$var reg 1 " clk $end
+$var reg 1 # clear $end
+$var reg 1 $ q $end
+$scope module uut $end
+$var reg 1 % d $end
+$var reg 1 & clk $end
+$var reg 1 ' clear $end
+$var reg 1 ( q $end
+$var reg 4 ) x[3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+U$
+0%
+0&
+0'
+U(
+b0000 )
+#5000000
+1"
+0$
+1&
+0(
+#10000000
+0"
+0&
+#15000000
+1"
+1&
+#20000000
+1!
+0"
+1#
+1%
+0&
+1'
+#25000000
+1"
+1&
+#30000000
+0"
+0#
+0&
+0'
+#35000000
+1"
+1&
+b0001 )
+#40000000
+0"
+0&
+#45000000
+1"
+1&
+b0011 )
+#50000000
+0!
+0"
+0%
+0&
+#55000000
+1"
+1&
+b0110 )
+#60000000
+0"
+0&
+#65000000
+1"
+1&
+b1100 )
+#70000000
+1!
+0"
+1%
+0&
+#75000000
+1"
+1$
+1&
+1(
+b1001 )
+#80000000
+0"
+0&
+#85000000
+1"
+1&
+b0011 )
+#90000000
+0"
+0&
+#95000000
+1"
+0$
+1&
+0(
+b0111 )
+#100000000
+0"
+0&
