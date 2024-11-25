@@ -1,0 +1,7 @@
+v 4
+file . "jk1_tb.vhdl" "923759ccb8b4b3fea1bc911a78b98e37b37187cd" "20241125065658.453":
+  entity jk1_tb at 1( 0) + 0 on 13;
+  architecture behavior of jk1_tb at 7( 74) + 0 on 14;
+file . "jk1.vhdl" "9b2f70998ed238f42e95fe1f66c11ea1a5406ce9" "20241125065654.615":
+  entity jk1 at 1( 0) + 0 on 11;
+  architecture behav of jk1 at 10( 182) + 0 on 12;

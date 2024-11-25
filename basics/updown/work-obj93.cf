@@ -1,0 +1,7 @@
+v 4
+file . "updown_count_tb.vhdl" "e54ae669026820eda48b98bc3443bff269318aa2" "20241125070957.063":
+  entity updown_count_tb at 1( 0) + 0 on 13;
+  architecture behavior of updown_count_tb at 8( 118) + 0 on 14;
+file . "updown_count.vhdl" "d3f24128c342cf1b1873771ede1bbbd734025dd8" "20241125070957.028":
+  entity updown_count at 1( 0) + 0 on 11;
+  architecture behavioral of updown_count at 10( 215) + 0 on 12;

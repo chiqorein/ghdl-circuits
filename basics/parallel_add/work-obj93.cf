@@ -1,0 +1,7 @@
+v 4
+file . "parallel_adder.vhdl" "3c52b887abb783ed56108f4ee4db7767173df09e" "20241125065137.316":
+  entity parallel_adder at 1( 0) + 0 on 13;
+  architecture behavior of parallel_adder at 10( 223) + 0 on 14;
+file . "parallel_adder_tb.vhdl" "43dc2a1775808d2e434c0b440d631f711f13d301" "20241125065127.778":
+  entity parallel_adder_tb at 1( 0) + 0 on 11;
+  architecture behavior of parallel_adder_tb at 8( 122) + 0 on 12;
